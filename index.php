@@ -1,2 +1,3 @@
 <?php
-echo "Hello ";
+$name = 'Elsa';
+echo 'Hello ' . htmlspecialchars($_GET["name"]) . '!';
