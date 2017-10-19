@@ -1,3 +1,3 @@
 <?php
 $name = 'Elsa';
-echo 'Hello ' . ($_GET["name"]) . '!';
+echo 'Hellow ' . ($_GET["name"]) . '!';
